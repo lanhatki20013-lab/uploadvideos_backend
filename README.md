@@ -1,3 +1,5 @@
+<img width="969" height="1800" alt="card-qrcode" src="https://github.com/user-attachments/assets/bbbe8404-30f0-4cf9-80f3-61d662f85636" />
+<img width="969" height="1800" alt="card-qrcode" src="https://github.com/user-attachments/assets/6bd4c7d6-febc-4477-b70f-a0f751659506" />
 # uploadVideos_backend
 This is a Node.js backend for uploading videos using Express.js, Sequelize, Multer, and MySQL. It provides a RESTful API for uploading videos
 ## Installation
